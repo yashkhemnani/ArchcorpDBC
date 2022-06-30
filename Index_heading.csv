@@ -1,911 +1,608 @@
-,Index,Heading
-0,A.5.2.1,Gross floor area (GFA)
-1,A.5.2.2,Built-up area
-2,A.5.2.3,Gross area and net area
-3,A.5.2.4,Building height
-4,B.4.2.1,Gate level
-5,B.4.2.2,Building height
-6,B.4.2.3,Building setbacks
-7,B.4.2.4,Building areas
-8,B.4.2.4.1,Gross area (GA)
-9,B.4.2.4.2,Net area (NA)
-10,B.4.2.5,"Balconies, building projections and terraces"
-11,B.4.2.5.1,Limitations
-12,B.4.2.5.2,Guardrails for fall protection
-13,B.4.2.6,Plot coverage
-14,B.4.2.5.3,Access doors
-15,B.4.3.1,Ground floor
-16,B.4.3.2,Basements
-17,B.4.3.3,Podium
-18,B.4.3.4,Roof
-19,B.6.2.1,Minimum clear widths
-20,B.6.2.2,Fire resistance rating
-21,B.6.2.3,Kiosks in mall pedestrian ways
-22,B.6.4.1,Stairways
-23,B.6.4.1.1,General
-24,B.6.4.1.2,Exit staircase construction
-25,B.6.4.1.3,Stairway width
-26,B.6.4.1.4,Stair risers and treads
-27,B.6.4.1.5,Landings
-28,B.6.4.1.6,Regular use and external stairs
-29,B.6.4.1.7,Handrails
-30,B.6.4.1.8,Guardrails
-31,B.6.4.2,Ramps
-32,B.6.4.3,Elevators
-33,B.6.5.1,Doors
-34,B.6.5.2,Windows and daylighting
-35,B.6.5.2.1,Minimum area of windows
-36,B.6.5.2.2,Daylighting
-37,B.6.5.2.3,Access to views
-38,B.6.5.2.4,Safety of windows
-39,B.6.6.1,Convenience openings and communicating spaces
-40,B.6.6.2,Atria
-41,B.6.6.3,Courtyards
-42,B.6.6.4,Shafts
-43,B.7.2.1,General requirements
-44,B.7.2.2,Vehicular ramps
-45,B.7.2.3,Parking floors and structures
-46,B.7.2.3.1,General
-47,B.7.2.3.2,Open versus enclosed parking
-48,B.7.2.3.3,Parking areas technical requirements
-49,B.7.2.4,Car parking bay dimensions
-50,B.7.2.5,Bus parking bays
-51,B.7.2.6,Parking provisions in buildings
-52,B.7.2.6.1,Parking ratios
-53,B.7.2.6.2,Preferred parking
-54,B.7.2.6.3,Charging equipment for electrical vehicles in malls
-55,B.7.2.7,Bicycle parking provision in building
-56,B.7.3.1,Loading and unloading areas
-57,B.7.3.1.1,General
-58,B.7.3.1.2,Minimum bays and areas clearances
-59,B.7.3.1.3,Building types requirements
-60,B.7.3.1.4,Truck turning radii and clearances
-61,B.7.3.2,Service ramps
-62,B.7.3.3,Maintenance ladders
-63,B.7.3.4,Access to utilities
-64,B.8.1.1,General
-65,B.8.1.2,Sanitary finishes
-66,B.8.1.3,Sanitary provisions and fixture calculations
-67,B.8.1.3.1,Occupancy requirements
-68,B.8.1.3.2,Mosques and prayer rooms
-69,B.8.1.3.3,Swimming pools
-70,B.8.1.4,Public toilets requirements
-71,B.8.1.4.1,Minimum space dimensions for toilet stalls
-72,B.8.1.4.2,Privacy requirements for public toilets
-73,B.8.1.5,Fixture clearances
-74,B.8.1.6,Cleaner’s room
-75,B.8.2.1,Drinking fountains
-76,B.8.2.2,Feeding rooms (lactation rooms)
-77,B.8.2.3,First aid facilities
-78,B.8.3.1,"Gymnasiums, exercise rooms and fitness centres"
-79,B.8.3.2,Swimming pools
-80,B.8.3.2.1,General requirements
-81,B.8.3.2.2,Safety requirements
-82,B.8.3.2.3,Swimming pool fences
-83,B.8.3.2.4,Decks and walkways
-84,B.8.3.2.5,Ladders and steps
-85,B.8.3.2.6,Diving boards
-86,B.8.3.3,Prayer rooms
-87,B.8.3.4,Open spaces
-88,B.8.5.1,Waste management hierarchy
-89,B.8.5.2,Waste storage rooms
-90,B.8.5.2.1,General
-91,B.8.5.2.2,Specification of waste storage rooms
-92,B.8.5.2.3,Dimensions of waste storage rooms
-93,B.8.5.3,Recycling and segregation
-94,B.8.5.4,Special and bulky waste
-95,B.8.5.5,Chemical and toxic waste
-96,B.8.5.6,Hydraulic skip compactors
-97,B.8.5.7,Refuse chutes
-98,B.9.4.1,General requirements
-99,B.9.4.2,Mosque architecture
-100,B.9.4.3,Mosque access strategy
-101,B.9.4.4,Mosque prayer hall arrangement
-102,B.9.4.5,Women’s prayer halls in mosques
-103,B.9.4.6,Specific requirements for mosque types
-104,B.9.4.6.1,Awqat mosques (daily prayers mosque)
-105,B.9.4.6.2,Jumaa mosque (Friday prayer)
-106,B.9.4.6.3,Eid Mussalla
-107,B.9.4.7,Ablution spaces
-108,B.9.4.8,Mosque accommodation
-109,B.9.4.9,Mosque-specific sanitary requirements
-110,B.9.5.1.1,General
-111,B.9.5.1.2,Food preparation
-112,B.9.5.1.3,Kitchen requirements
-113,B.9.6.1,General requirements
-114,B.9.6.2,Schools
-115,B.9.6.3,Kindergartens
-116,B.9.6.4,Nurseries
-117,B.9.7.1,Apartment buildings
-118,B.9.7.2,Labour accommodation
-119,B.9.7.2.1,General building requirements
-120,B.9.7.2.2,Labour accommodation rooms
-121,B.9.7.2.3,Labour accommodation amenities
-122,B.9.7.3,Staff accommodation
-123,B.9.7.4,Student accommodation
-124,B.10.5.1,Local species
-125,B.10.5.2,Shading of public access
-126,B.10.5.3,Heat island effect reduction - surfaces shading
-127,B.10.6.1,Recycled materials
-128,B.10.6.2,Regional materials
-129,B.10.6.3,Asbestos-containing materials
-130,B.10.6.4,Lead or heavy metals containing material
-131,B.10.6.5,Composite timber products
-132,B.10.6.6,Certified/accredited timber
-133,B.11.4.1,Types
-134,B.11.4.2,Information signs
-135,B.11.4.3,Directional signs
-136,B.11.4.4,Identity signs
-137,B.11.4.5,Advisory signs
+Sr. No.,Index,Heading
+1,B.9.4.7,Ablution spaces
+2,D.9.8.2,Acceleration and jerk
+3,C.5.4.3,Access control barriers
+4,B.4.2.5.3,Access doors
+5,H.6.3.2,Access to drainage systems
+6,B.7.3.4,Access to utilities
+7,C.5.9.1.1,Accessible and pedestrian ramp requirements
+8,C.10.2.3,Accessible auditorium seating spaces
+9,C.5.9.3.2,Accessible elevator requirements
+10,C.5.4.1,Accessible entrances
+11,C.10.4.2,Accessible guest room with mobility features
+12,C.10.4.3,Accessible guest rooms with communication features
+13,C.6.4.1,Accessible parking provision
+14,C.8.3.7.1,Accessible showers
+15,K.8.4.8,Accidental impact load
+16,K.10.1.2,Acoustic requirements and noise criteria
+17,C.10.3.2,Adaptable units in residential buildings
+18,F.6.3.2,Additional design requirements for post-tensioned concrete
+19,B.11.4.5,Advisory signs
+20,H.4.12.5,Air filters
+21,H.4.10.4,Air inlets and exhausts
+22,H.4.9.2,Air loss from entrances/exits
+23,H.4.14.4,Air-conditioning metering
+24,F.7.12.4,Allowable building movements for wind
+25,F.7.12.4.1,Allowable displacement
+26,K.9.1.6,Ambient design conditions
+27,K.5.2.3,Annexes
+28,B.9.7.1,Apartment buildings
+29,G.11.4.5,Apartment/office/retail consolidation
+30,K.9.1.13,Apparatus and accessories
+31,C.8.3.3,Approach and toe clearance
+32,G.4.13.3,Arc fault detection devices (AFDDs)
+33,G.4.18.1,Armoured cables
+34,K.9.1.15,Assessment of connected load and
+35,B.6.6.2,Atria
+36,B.9.4.6.1,Awqat mosques (daily prayers mosque)
+37,C.8.3.2,Baby changing stations
+38,K.10.2.8,Backflow protection
+39,G.7.5.3,Basement substation (RMU room in ground floor and transformer
+40,F.9.4.3.4,Basement walls
+41,C.8.3.8,Bathtubs
+42,K.10.3.3,Below ground drainage systems
+43,B.7.2.7,Bicycle parking provision in building
+44,H.4.13.9,Boilers
+45,F.6.5.4.1,Bolted connections
+46,F.6.6.3,Brick and block strengths
+47,K.10.1.3,Building HVAC energy load
+48,K.5.6.1,Building access
+49,B.4.2.4,Building areas
+50,H.11.2.4,Building control and operation communication protocols
+51,H.4.14.2,Building management system (BMS)
+52,H.10.3.2,Building services noise
+53,B.7.3.1.3,Building types requirements
+54,A.5.2.2,Built-up area
+55,B.7.2.5,Bus parking bays
+56,H.11.8.4,Bus topology
+57,G.4.18.3,Busbar trunking systems (busways/bus
+58,G.11.4.7,Business consolidation cabinet –
+59,G.7.1.4,Cable loads
+60,G.4.17.3,Cable trays
+61,G.4.11.3,Cable trays and supports
+62,G.7.1.7,Cable trenches
+63,K.9.1.7,Cables and conductors
+64,K.9.7.4.4,Cables and termination equipment
+65,B.7.2.4,Car parking bay dimensions
+66,B.10.6.6,Certified/accredited timber
+67,C.7.3.4,Chairs and benches
+68,B.7.2.6.3,Charging equipment for electrical vehicles in malls
+69,B.8.5.5,Chemical and toxic waste
+70,C.5.7.3,Children’s reach ranges
+71,C.8.3.4.4,Children’s water closets
+72,B.8.1.6,Cleaner’s room
+73,H.5.4.1,Cold water distribution
+74,K.10.2.3,Cold water services
+75,K.10.2.5,Cold water storage tanks
+76,H.3.1.6,Commissioning
+77,H.5.2.1,Compliance methods
+78,F.10.2.1,Component of ground motion
+79,B.10.6.5,Composite timber products
+80,F.8.3.2,Concrete beam and slab deflection
+81,F.6.2.2,Concrete strength
+82,F.5.6.2,Concrete structures
+83,H.5.2.3,Condensate drainage
+84,H.5.2.4,Condensate reuse
+85,G.4.11.1,Conduits and fittings
+86,H.11.3.5,Connection topologies for digital services in buildings
+87,F.6.4.6,Connections
+88,K.9.7.4.2,Consolidation cabinets
+89,K.8.4.7,Construction load
+90,G.4.19.2,Consumer’s main earth electrode
+91,K.7.6.2,Containment
+92,H.11.7.1,Context
+93,G.4.13.8,Control of air conditioning unit/
+94,H.10.3.4,Control of reverberation
+95,G.4.13.7,"Control of water heaters, saunas,"
+96,H.4.14.1,Controls for HVAC systems
+97,B.6.6.1,Convenience openings and communicating spaces
+98,H.11.7.2,Conventional approach to digital services and smart functionality in
+99,H.4.16.9,Conversion burners
+100,G.4.13.5,Cooker control units
+101,H.4.16.8,Cooking appliances
+102,H.5.4.2,Cooled water systems
+103,H.5.2.8,Cooling tower water supply
+104,H.4.16.3,"Cooling towers, evaporative condensers and fluid coolers"
+105,C.7.3.5,Counters and checkout aisles
+106,B.6.6.3,Courtyards
+107,K.8.5.4,Crack control in concrete structure
+108,F.7.13.13,Cracked section stiffness
+109,C.10.2.1,"Cultural buildings, libraries, museums and exhibition rooms"
+110,C.6.2.2.3,Curb ramps in curb extensions
+111,C.6.2.2.1,Curb ramps with flared sides
+112,C.5.9.1.5,Curved ramps
+113,G.7.5.6,DEWA control room requirements for direct 11 kV supply
+114,F.7.13.12,Damping
+115,H.11.2.6,Data governance and privacy
+116,H.11.2.9,Data validation
+117,B.6.5.2.2,Daylighting
+118,K.8.4.3,Dead loads
+119,F.9.4.2.3,Deep and piled foundations
+120,K.8.5.3,Deflection control
+121,H.4.8.3,Demand controlled ventilation
+122,K.8.1.3,Design acceptance criteria
+123,K.9.7.1,Design and installation of telecom infrastructure
+124,K.9.5.2,Design and installation of water meters
+125,K.9.1.17,"Design criteria for the installation of cables, equipment, accessories"
+126,K.9.1.16,"Design criteria for the installation of conduits, trunking, trays and"
+127,K.8.4.12,Design for earthquake effects
+128,K.8.4.11,Design for wind loading effects
+129,K.8.1.2,Design life
+130,F.7.13.7,Design response spectrum
+131,F.7.13.6,Design spectral acceleration parameters
+132,D.9.8.3,Destination control systems
+133,F.6.2.6,Detailing of reinforcement
+134,C.7.2.2.2,Detectable warning surface
+135,H.11.2.5,Device and data naming
+136,H.11.2.8,Device requirements and security
+137,H.11.2.1,Digital building technology model
 138,B.11.4.6,Digital screens
-139,C.5.4.1,Accessible entrances
-140,C.5.4.2,Entrance doors
-141,C.5.4.3,Access control barriers
-142,C.5.6.1,Interaction space
-143,C.5.6.2,Toe and knee clearance
-144,C.5.6.3,Protruding objects
-145,C.5.7.1,Forward reach
-146,C.5.7.1.1,Unobstructed forward reach
-147,C.5.7.1.2,Obstructed forward reach
-148,C.5.7.2,Side reach
-149,C.5.7.2.1,Unobstructed side reach
-150,C.5.7.2.2,Obstructed side reach
-151,C.5.7.3,Children’s reach ranges
-152,C.5.7.4,"Switches, controls and socket outlets"
-153,C.5.8.1,Minimum accessible door requirements
-154,C.5.8.2,Hardware requirements
-155,C.5.8.2.1,Door opening hardware
-156,C.5.8.2.2,Vision panels
-157,C.5.8.3,Manoeuvring spaces at manual doors and doorways without doors
-158,C.5.8.3.1,Manoeuvring spaces for swinging and sliding doors
-159,C.5.8.3.2,Manoeuvring spaces for doorways without doors
-160,C.5.8.3.3,Manoeuvring spaces for two doors in series
-161,C.5.8.4,Power-assisted and automatic accessible doors
-162,C.5.9.1,Ramps
-163,C.5.9.1.1,Accessible and pedestrian ramp requirements
-164,C.5.9.1.2,Ramp runs
-165,C.5.9.1.3,Ramp landings
-166,C.5.9.1.4,Ramp edge protection
-167,C.5.9.1.5,Curved ramps
-168,C.5.9.1.6,Ramp handrails
-169,C.5.9.2,Stairs
-170,C.5.9.3,Elevators
-171,C.5.9.3.1,General
-172,C.5.9.3.2,Accessible elevator requirements
-173,C.5.9.4,Lift platforms
-174,C.5.9.5,Escalators and moving walks
-175,C.5.9.5.1,General
-176,C.5.9.5.2,Escalators
-177,C.5.9.5.3,Moving walks
-178,C.6.2.1,General
-179,C.6.2.2,Types of curb ramps
-180,C.6.2.2.1,Curb ramps with flared sides
-181,C.6.2.2.2,Returned curb ramps
-182,C.6.2.2.3,Curb ramps in curb extensions
-183,C.6.2.2.4,Lowered sidewalk curb ramps
-184,C.6.4.1,Accessible parking provision
-185,C.6.4.2,Location of accessible parking spaces
-186,C.7.2.1,Floor surfaces
-187,C.7.2.1.1,Level change
-188,C.7.2.1.2,Slip resistance
-189,C.7.2.1.3,Other requirements
-190,C.7.2.2,Tactile systems
-191,C.7.2.2.1,General
-192,C.7.2.2.2,Detectable warning surface
-193,C.7.2.2.3,Tactile guiding surfaces
-194,C.7.2.3,Glass surfaces
-195,C.7.2.4,Wall surfaces
-196,C.7.3.1,General
-197,C.7.3.2,Storage facilities
-198,C.7.3.3,Tables
-199,C.7.3.4,Chairs and benches
-200,C.7.3.5,Counters and checkout aisles
-201,C.8.3.1,General
-202,C.8.3.2,Baby changing stations
-203,C.8.3.3,Approach and toe clearance
-204,C.8.3.4,Water closets
-205,C.8.3.4.1,Position and arrangement of toilets
-206,C.8.3.4.2,Wheelchair accessible water closets
-207,C.8.3.4.3,Grab bars for water closets
-208,C.8.3.4.4,Children’s water closets
-209,C.8.3.5,Urinals
-210,C.8.3.6,Sinks and washbasins
-211,C.8.3.7,Showers
-212,C.8.3.7.1,Accessible showers
-213,C.8.3.7.2,Transfer type shower compartments
-214,C.8.3.7.3,Roll-in type shower compartment
-215,C.8.3.7.4,Shower seats
-216,C.8.3.7.5,Grab bars for showers
-217,C.8.3.8,Bathtubs
-218,C.8.3.8.1,Position and clearances
-219,C.8.3.8.2,Grab bars for bathtubs with permanent seats
-220,C.8.3.8.3,Grab bars for bathtubs without permanent seats
-221,C.8.3.9,Grab bars
-222,C.10.2.1,"Cultural buildings, libraries, museums and exhibition rooms"
-223,C.10.2.2,"Theatres, cinemas, conference rooms and auditoriums"
-224,C.10.2.3,Accessible auditorium seating spaces
-225,C.10.2.4,Stages and backstage
-226,C.10.2.5,Libraries and reading
-227,C.10.2.6,Mosques and prayer rooms
-228,C.10.2.7,Public spaces
-229,C.10.2.8,Swimming pools
-230,C.10.2.9,Recreational buildings and amusement parks
-231,C.10.2.10,Dining spaces
-232,C.10.2.11,Kitchen and kitchenettes
-233,C.10.2.12,"Transport buildings, stations and terminals"
-234,C.10.2.13,Sport buildings and exercise rooms
-235,C.10.3.1,General
-236,C.10.3.2,Adaptable units in residential buildings
-237,C.10.4.1,General
-238,C.10.4.2,Accessible guest room with mobility features
-239,C.10.4.3,Accessible guest rooms with communication features
-240,C.11.3.1,General features
-241,C.11.3.2,Location of tactile maps
-242,C.11.3.3,Raised characters for tactile signage
-243,D.7.2.1,General
-244,D.7.2.2,Horizontal distances
-245,D.7.3.1,General
-246,D.7.3.2,Elevators in-line
-247,D.7.3.3,Elevators facing each other
-248,D.8.2.1,Number of service elevators
-249,D.8.2.2,Rated speed
-250,D.8.3.1,Firefighting elevators
-251,D.8.3.2,Rated speed of firefighting elevators
-252,D.8.3.3,Firefighting elevators in super high-rise buildings
-253,D.8.5.1,Single grouping and one floor zone
-254,D.8.5.2,Multiple lobbies serving one zone
-255,D.8.5.3,Multiple groupings serving different floor zones
-256,D.8.8.1,Population estimation
-257,D.8.8.2,Passenger elevator selection charts
-258,D.8.8.3,Minimum elevator specifications
-259,D.8.9.1,Population estimation
-260,D.8.9.2,Passenger elevator selection chart
-261,D.8.9.3,Minimum elevator specifications
-262,D.8.10.1,Population estimation and passenger elevator selection
-263,D.8.10.2,Minimum elevator specifications
-264,D.8.11.1,Population estimation
-265,D.8.11.2,Passenger elevator selection chart
-266,D.8.11.3,Minimum elevator specifications
-267,D.8.12.1,Population estimation
-268,D.8.12.2,Passenger elevator selection chart
-269,D.8.12.3,Minimum elevator specifications
-270,D.8.12.4,Minimum escalator specifications
-271,D.8.13.1,Population estimation
-272,D.8.13.2,Passenger elevator selection charts
-273,D.8.13.3,Minimum elevator specifications
-274,D.8.14.1,Passenger elevator selection
-275,D.8.14.3,Minimum escalator specifications
-276,D.8.15.1,Primary and secondary modes of circulation
-277,D.8.14.2,Minimum elevator specifications
-278,D.8.15.2,Population estimation
-279,D.8.15.3,Selection tables
-280,D.8.15.4,Minimum specifications
-281,D.8.16.1,Population estimation
-282,D.8.16.2,Passenger elevator selection chart
-283,D.8.16.3,Minimum elevator specifications
-284,D.9.2.1,General
-285,D.9.3.1,Handling capacity
-286,D.9.3.2,Traffic pattern
-287,D.9.8.1,Door timing
-288,D.9.8.2,Acceleration and jerk
-289,D.9.8.3,Destination control systems
-290,D.9.8.4,Hybrid systems
-291,E.4.1.1,General
-292,E.4.1.2,Wind loadings
-293,E.4.1.3,Permanent fixture loading
-294,E.4.1.4,Operational forces
-295,E.4.1.5,Thermal movements
-296,E.4.1.6,Deflection
-297,E.4.1.7,Fixings
-298,E.5.2.1,Maximum glazed area
-299,E.5.2.2,Orientation of glazed facades
-300,E.5.2.3,Building envelope performance
-301,E.5.2.3.1,Non-glazed elements
-302,E.5.2.3.2,Glazed elements
-303,E.7.3.1,General
-304,E.7.3.2,Horizontal and inclined surfaces
-305,E.7.3.3,Vertical surfaces
-306,E.7.3.4,Flashing
-307,E.12.7.1,Rope access
-308,E.12.7.2,Power-operated systems
-309,F.3.1.1,General
-310,F.3.1.2,Concrete
-311,F.3.1.3,Steel
-312,F.3.1.4,Masonry
-313,F.3.1.5,Geotechnics
-314,F.3.1.5.1,Geotechnics investigation and testing
-315,F.3.1.5.2,Geotechnical design
-316,F.3.1.5.3,Execution of geotechnical works
-317,F.3.2.1,Concrete
-318,F.3.2.2,Geotechnics
-319,F.3.2.3,Seismic
-320,F.5.6.1,General
-321,F.5.6.2,Concrete structures
-322,F.5.6.3,Steelwork structures
-323,F.6.2.1,Design basis
-324,F.6.2.2,Concrete strength
-325,F.6.2.3,Concrete mixes
-326,F.6.2.4,Modulus of elasticity
-327,F.6.2.5,Section properties
-328,F.6.2.6,Detailing of reinforcement
-329,F.6.3.1,Design basis
-330,F.6.3.2,Additional design requirements for post-tensioned concrete
-331,F.6.3.3,Concrete
-332,F.6.3.4,Concrete mixes
-333,F.6.3.5,Tendons
-334,F.6.3.6,Ducts
-335,F.6.3.7,Grout
-336,F.6.3.8,Permissible stresses in post-tensioning steel
-337,F.6.3.9,Minimum bonded reinforcement for post-tensioned concrete
-338,F.6.3.10,Post-tensioned concrete reinforcement
-339,F.6.4.1,Design basis
-340,F.6.4.2,Concrete
-341,F.6.4.3,Concrete mixes
-342,F.6.4.4,Reinforcement and strands
-343,F.6.4.5,"Storage, transportation, handling and erection"
-344,F.6.4.6,Connections
-345,F.6.5.1,Design basis
-346,F.6.5.2,Steel grades
-347,F.6.4.7,Precast staircase
-348,F.6.5.3,Plate thickness
-349,F.6.5.4,Structural connections
-350,F.6.5.4.1,Bolted connections
-351,F.6.5.4.2,Welded connections
-352,F.6.5.4.3,Post-installed anchors
-353,F.6.6.1,Design basis
-354,F.6.6.2,Wall panels
-355,F.6.6.3,Brick and block strengths
-356,F.7.12.1,Design basis
-357,F.7.12.2,Wind pressures
-358,F.7.12.3,Wind tunnel testing
-359,F.7.12.3.1,Requirements for testing
-360,F.7.12.3.2,Wind direction factors
-361,F.7.12.3.3,Peer review of wind tunnel testing
-362,F.7.12.4,Allowable building movements for wind
-363,F.7.12.4.1,Allowable displacement
-364,F.7.12.4.2,Motions affecting occupant comfort
-365,F.7.12.5,Structural damping for assessment of wind responses
-366,F.7.13.1,Scope
-367,F.7.13.2,Seismic performance criteria
-368,F.7.13.3,Seismic ground motion values
-369,F.7.13.3.1,Near-fault sites
-370,F.7.13.3.2,Dubai acceleration parameters
-371,F.7.13.4,Site class
-372,F.7.13.5,Site coefficients and risk-targeted maximum considered earthquake
-373,F.7.13.6,Design spectral acceleration parameters
-374,F.7.13.7,Design response spectrum
-375,F.7.13.8,Risk-targeted maximum considered earthquake (MC
-376,F.7.13.9,Site-specific ground motion procedures
-377,F.7.13.10,Seismic design category
-378,F.7.13.11,Geological hazards and geotechnical investigation
-379,F.7.13.12,Damping
-380,F.7.13.13,Cracked section stiffness
-381,F.7.13.14,Seismic assessment of existing buildings
-382,F.8.3.1,General
-383,F.8.3.2,Concrete beam and slab deflection
-384,F.8.3.3,Steelwork deflection limits
-385,F.8.3.4,Post-tensioned concrete deflection control
-386,F.8.6.1,General
-387,F.8.6.2,Drift due to permanent gravity load
-388,F.8.6.3,Drift and deformation due to differential vertical shortening
-389,F.8.6.4,Drift and deformation due to wind
-390,F.8.6.5,Drift and deformation due to seismic
-391,F.8.8.1,Steelwork
-392,F.8.8.2,Concrete
-393,F.9.3.1,General
-394,F.9.3.2,Geotechnical desk study
-395,F.9.3.3,Planning geotechnical investigation
-396,F.9.3.4,Geotechnical on-site investigations
-397,F.9.3.5,Geotechnical laboratory testing
-398,F.9.3.6,Geotechnical reporting
-399,F.9.4.1,Earthworks (excavation and filling)
-400,F.9.4.2,Foundations design
-401,F.9.4.2.1,General
-402,F.9.4.2.2,Shallow and raft foundations
-403,F.9.4.2.3,Deep and piled foundations
-404,F.9.4.3,Shoring and earth retaining system
-405,F.9.4.3.1,General
-406,F.9.4.3.2,Required shoring systems
-407,F.9.4.3.3,Permanent earth retaining system
-408,F.9.4.3.4,Basement walls
-409,F.9.4.4,Groundwater control and dewatering
-410,F.9.4.5,Liquefaction
-411,F.9.4.6,Ground improvement
-412,F.9.5.1,General
-413,F.9.5.2,Earthworks (excavation and filling)
-414,F.9.5.3,Shoring retaining systems
-415,F.9.5.4,Foundations
-416,F.9.5.5,Groundwater control and dewatering
-417,F.9.5.6,Ground improvement
-418,F.10.2.1,Component of ground motion
-419,F.10.2.2,Return period
-420,G.2.1.1,Electrical
-421,G.2.1.2,District cooling
-422,G.2.1.3,Telecommunications
-423,G.3.5.1,Essential reading
-424,G.3.5.2,Further reading
-425,G.4.4.1,General
-426,G.4.4.2,Switchgear locations
-427,G.4.4.3,Main electrical switchroom
-428,G.4.5.1,Individual consumer premises
-429,G.4.5.2,Multiple consumer premises
-430,G.4.5.3,Metering cabinet arrangement
-431,G.4.5.4,CT metering requirements
-432,G.4.7.1,General
-433,G.4.7.2,Minimum size of conductors
-434,G.4.7.3,"Current rating, size and voltage drop"
-435,G.4.7.4,Cable colour identification
-436,G.4.11.1,Conduits and fittings
-437,G.4.11.2,Trunking
-438,G.4.11.3,Cable trays and supports
-439,G.4.12.1,Main and sub main distribution boards
-440,G.4.12.2,Final distribution boards
-441,G.4.13.1,Switches
-442,G.4.13.3,Arc fault detection devices (AFDDs)
-443,G.4.13.2,Plugs and socket outlets
-444,G.4.13.4,Surge protection devices (SPDs)
-445,G.4.13.5,Cooker control units
-446,G.4.13.6,Kitchen appliances
-447,G.4.13.7,"Control of water heaters, saunas,"
-448,G.4.13.8,Control of air conditioning unit/
-449,G.4.13.9,Extra LV safety apparatus
-450,G.4.16.1,Lighting and small power circuits
-451,G.4.16.2,Maximum demand
-452,G.4.17.1,Trunking and conduits
-453,G.4.17.2,Flexible conduits
-454,G.4.17.3,Cable trays
-455,G.4.18.1,Armoured cables
-456,G.4.18.2,Distribution boards
-457,G.4.18.3,Busbar trunking systems (busways/bus
-458,G.4.18.4,"Segregation of circuits, phases and"
-459,G.4.18.6,Identification labels and notices
-460,G.4.18.5,Mounting heights of accessories
-461,G.4.19.1,General
-462,G.4.19.2,Consumer’s main earth electrode
-463,G.4.19.3,Earth continuity conductor (ECC)
-464,G.4.19.4,Earth leakage protection
-465,G.4.19.5,Equipotential bonding
-466,G.4.20.1,PF correction
-467,G.4.20.2,Harmonics and rapid voltage changes
-468,G.4.20.3,Undervoltage (UV) relays with auto
-469,G.4.21.1,General
-470,G.4.21.2,Wiring systems and distribution boards
-471,G.4.21.3,Earth leakage protection
-472,G.5.1.1,General
-473,G.5.1.2,Mode 1 charging
-474,G.5.1.3,Mode 2 charging
-475,G.5.1.4,Mode 3 charging
-476,G.5.1.5,Mode 4 charging
-477,G.7.1.1,General
-478,G.7.1.2,Reliability of supply
-479,G.7.1.3,Standard cable sizes
-480,G.7.1.4,Cable loads
-481,G.7.1.5,Parallel operation
-482,G.7.1.6,Harmonics
-483,G.7.1.7,Cable trenches
-484,G.7.2.1,General
-485,G.7.2.2,Substation location
-486,G.7.2.3,Substation parameters
-487,G.7.2.4,Earthing
+139,H.11.7.3,Digital services enabled approach
+140,K.5.9.3,Dimensions of waste storage areas
+141,B.8.5.2.3,Dimensions of waste storage rooms
+142,C.10.2.10,Dining spaces
+143,B.11.4.3,Directional signs
+144,G.4.18.2,Distribution boards
+145,K.9.1.12,Distribution boards and consumer units
+146,H.11.3.4,Distribution techniques
+147,G.2.1.2,District cooling
+148,B.8.3.2.6,Diving boards
+149,C.5.8.2.1,Door opening hardware
+150,D.9.8.1,Door timing
+151,H.6.2.3,Drainage from mechanical plant
+152,H.6.4.4,Drainage of hardstanding paved areas
+153,H.6.3.1,Drainage systems
+154,K.8.5.5,Drift and deformation
+155,F.8.6.3,Drift and deformation due to differential vertical shortening
+156,F.8.6.2,Drift due to permanent gravity load
+157,B.8.2.1,Drinking fountains
+158,F.7.13.3.2,Dubai acceleration parameters
+159,F.6.3.6,Ducts
+160,H.4.12.2,Ducts and duct connectors
+161,H.4.12.6,Ductwork air leakage
+162,G.4.19.3,Earth continuity conductor (ECC)
+163,G.7.2.4,Earthing
+164,K.9.1.18,Earthing and earth leakage protection
+165,K.8.6.4.1,Earthworks (excavation and fill)
+166,H.10.4.3,Educational
+167,B.9.4.6.3,Eid Mussalla
+168,H.4.6.7.3,Electrical equipment loads
+169,K.9.1.2,Electrical supply
+170,D.7.3.3,Elevators facing each other
+171,D.7.3.2,Elevators in-line
+172,K.10.5.1,Emergency lighting
+173,K.7.2.1,Energy compliance method
+174,K.10.1.5,Energy conservation and efficiency: building systems
+175,H.4.16.6,Engine and gas turbine-powered equipment and appliances
+176,C.5.4.2,Entrance doors
+177,H.11.3.2,Equipment rooms and cabling pathways
+178,G.4.19.5,Equipotential bonding
+179,C.5.9.5.2,Escalators
+180,C.5.9.5,Escalators and moving walks
+181,G.3.5.1,Essential reading
+182,H.4.8.2,Exhaust air energy recovery
+183,H.4.12.7,Exhaust ventilation systems
+184,B.6.4.1.2,Exit staircase construction
+185,K.5.12.2,Exterior light pollution and controls
+186,K.5.5.2.7,Exterior stairways
+187,H.4.6.6,External load criteria
+188,G.4.13.9,Extra LV safety apparatus
+189,K.8.5.8,Fatigue
+190,B.8.2.2,Feeding rooms (lactation rooms)
+191,G.11.4.9,Fibre termination components and
+192,G.4.12.2,Final distribution boards
+193,H.6.3.7,Final inspection chamber and provision for future connection
+194,H.4.12.9,Fire and smoke dampers
+195,K.10.5.2,Fire detection and alarm
+196,B.6.2.2,Fire resistance rating
+197,H.2.1.5,Fire safety
+198,K.7.7.2,"Fire testing of non-fire-rated, non-load-bearing façades and aesthetic"
+199,D.8.3.1,Firefighting elevators
+200,D.8.3.3,Firefighting elevators in super high-rise buildings
+201,K.5.6.2,Firefighting vehicle access
+202,H.5.5.6,Firefighting water tanks
+203,H.4.16.2,Fireplace stoves and room heaters
+204,B.8.2.3,First aid facilities
+205,G.4.17.2,Flexible conduits
+206,H.6.2.4,Floor drains
+207,C.7.2.1,Floor surfaces
+208,G.11.4.3,Floor telecom rooms (FTRs)
+209,K.5.2.8,Floors general requirements
+210,B.9.5.1.2,Food preparation
+211,G.7.6.3,Forced ventilation with no exterior walls
+212,C.5.7.1,Forward reach
+213,H.6.3.4,Foul pumping stations
+214,G.3.5.2,Further reading
+215,H.4.16.1,Gas-fired appliances
+216,B.9.7.2.1,General building requirements
+217,K.8.1.1,General conditions
+218,C.11.3.1,General features
+219,F.7.13.11,Geological hazards and geotechnical investigation
+220,K.3.5.5.1,Geotechnical investigation and testing
+221,K.8.6.3,Geotechnical site investigation
+222,F.3.1.5.1,Geotechnics investigation and testing
+223,C.7.2.3,Glass surfaces
+224,E.5.2.3.2,Glazed elements
+225,K.7.2.2.2,Glazed elements – Fenestration
+226,C.8.3.9,Grab bars
+227,C.8.3.8.2,Grab bars for bathtubs with permanent seats
+228,C.8.3.8.3,Grab bars for bathtubs without permanent seats
+229,C.8.3.7.5,Grab bars for showers
+230,C.8.3.4.3,Grab bars for water closets
+231,A.5.2.3,Gross area and net area
+232,A.5.2.1,Gross floor area (GFA)
+233,K.7.4.2,Ground moisture
+234,F.6.3.7,Grout
+235,K.5.8.1,"Gymnasiums, exercise rooms"
+236,B.8.3.1,"Gymnasiums, exercise rooms and fitness centres"
+237,H.4.14.3,H.4.14.3 Control systems for hotel rooms
+238,K.5.4.2.2,Habitable room conditions for natural lighting
+239,K.5.5.1,Hallways and corridors
+240,D.9.3.1,Handling capacity
+241,C.5.8.2,Hardware requirements
+242,G.7.1.6,Harmonics
+243,G.4.20.2,Harmonics and rapid voltage changes
+244,H.10.4.2,Healthcare
+245,H.4.6.5,Heat gain and loss calculations
+246,K.7.2.7,Heat island effect reduction
+247,B.10.5.3,Heat island effect reduction - surfaces shading
+248,H.11.2.7,Home automation in residential buildings
+249,D.7.2.2,Horizontal distances
+250,K.10.2.9,Hot water services
+251,H.10.4.4,Hotels
+252,D.9.8.4,Hybrid systems
+253,B.8.5.6,Hydraulic skip compactors
+254,K.10.1.9,Hydronic systems
+255,G.4.18.6,Identification labels and notices
+256,B.11.4.4,Identity signs
+257,K.7.1.5,Impact resistance
+258,H.11.2.2,Implementation requirements
+259,K.9.1.3,Incoming and metering
+260,G.4.5.1,Individual consumer premises
+261,K.9.1.5.1,Individual consumers premises
+262,H.4.10.3,Indoor air quality
+263,H.4.6.3,Indoor design conditions
+264,B.11.4.2,Information signs
+265,H.4.16.4,Infrared radiant heaters
+266,K.9.7.4,Inside plant common infrastructure specifications (ISP)
+267,G.7.9.1,Intake arrangement
+268,C.5.6.1,Interaction space
+269,K.5.10.3,Interior finishes
+270,H.4.6.7,Internal load criteria
+271,H.11.2.3,IoT protocols for digital services enablement
+272,H.5.4.6,Irrigation water supply
+273,H.4.10.5,Isolation of pollutant sources
+274,H.4.15.3,Joints and connections
+275,B.9.4.6.2,Jumaa mosque (Friday prayer)
+276,B.9.6.3,Kindergartens
+277,B.6.2.3,Kiosks in mall pedestrian ways
+278,C.10.2.11,Kitchen and kitchenettes
+279,G.4.13.6,Kitchen appliances
+280,B.9.5.1.3,Kitchen requirements
+281,K.9.3.4,Labelling and identification
+282,K.9.7.4.5,Labelling scheme
+283,H.5.4.4,Laboratory buildings
+284,B.9.7.2,Labour accommodation
+285,B.9.7.2.3,Labour accommodation amenities
+286,G.11.4.6,Labour accommodation consolidation cabinet
+287,B.9.7.2.2,Labour accommodation rooms
+288,B.8.3.2.5,Ladders and steps
+289,H.11.3.3,Landlord and tenant cabling infrastructure
+290,H.11.3.6,Landlord data network infrastructure
+291,G.11.3.1,Lead-in ducts
+292,H.6.2.9,Leak detection systems
+293,C.7.2.1.1,Level change
+294,C.10.2.5,Libraries and reading
+295,C.5.9.4,Lift platforms
+296,G.4.16.1,Lighting and small power circuits
+297,K.10.4.2,Lighting controls
+298,K.8.4.5,Live loads
+299,K.9.1.10,Load balancing
+300,K.7.1.6,Load combination
+301,K.8.4.2,Load combinations
+302,K.7.1.1.3,Load resistance and transmission
+303,B.7.3.1,Loading and unloading areas
+304,B.10.5.1,Local species
+305,C.6.4.2,Location of accessible parking spaces
+306,C.11.3.2,Location of tactile maps
+307,C.6.2.2.4,Lowered sidewalk curb ramps
+308,G.4.12.1,Main and sub main distribution boards
+309,G.4.4.3,Main electrical switchroom
+310,H.5.2.6.1,Main meters
+311,G.11.4.2,Main telecom rooms (MTRs)
+312,H.6.3.6,Manhole construction
+313,H.6.3.5,Manholes
+314,C.5.8.3,Manoeuvring spaces at manual doors and doorways without doors
+315,C.5.8.3.2,Manoeuvring spaces for doorways without doors
+316,C.5.8.3.1,Manoeuvring spaces for swinging and sliding doors
+317,C.5.8.3.3,Manoeuvring spaces for two doors in series
+318,G.4.16.2,Maximum demand
+319,E.5.2.1,Maximum glazed area
+320,K.5.5.5,Means of egress
+321,K.10.1.8,Mechanical ventilation
+322,H.4.12.8,Mechanical ventilation in fire mode
+323,G.11.3.2,Meet-me-room (MMR)
+324,H.11.8.5,Mesh topology
+325,K.9.3.5,Metering and metering provision
+326,G.4.5.3,Metering cabinet arrangement
+327,C.5.8.1,Minimum accessible door requirements
+328,B.7.3.1.2,Minimum bays and areas clearances
+329,F.6.3.9,Minimum bonded reinforcement for post-tensioned concrete
+330,K.5.3.2,Minimum clear heights
+331,B.6.2.1,Minimum clear widths
+332,H.4.8.1,Minimum efficiency of HVAC systems
+333,K.5.3.1,Minimum room sizes
+334,B.8.1.4.1,Minimum space dimensions for toilet stalls
+335,D.8.15.4,Minimum specifications
+336,H.4.10.2,Minimum ventilation requirements for adequate indoor air quality
+337,H.6.4.5,Miscellaneous rainwater drainage
+338,G.11.4.4,Mobile network services
+339,G.5.1.2,Mode 1 charging
+340,G.5.1.3,Mode 2 charging
+341,G.5.1.4,Mode 3 charging
+342,G.5.1.5,Mode 4 charging
+343,F.6.2.4,Modulus of elasticity
+344,B.9.4.3,Mosque access strategy
+345,B.9.4.8,Mosque accommodation
+346,B.9.4.2,Mosque architecture
+347,B.9.4.4,Mosque prayer hall arrangement
+348,B.9.4.9,Mosque-specific sanitary requirements
+349,H.10.4.1,Mosques
+350,F.7.12.4.2,Motions affecting occupant comfort
+351,G.4.18.5,Mounting heights of accessories
+352,K.8.5.6,Movement joints and building separation
+353,C.5.9.5.3,Moving walks
+354,G.4.5.2,Multiple consumer premises
+355,D.8.5.3,Multiple groupings serving different floor zones
+356,D.8.5.2,Multiple lobbies serving one zone
+357,K.10.1.7,Natural ventilation
+358,G.7.6.2,Natural ventilation via two exterior walls
+359,F.7.13.3.1,Near-fault sites
+360,B.4.2.4.2,Net area (NA)
+361,D.8.2.1,Number of service elevators
+362,B.9.6.4,Nurseries
+363,C.5.7.1.2,Obstructed forward reach
+364,C.5.7.2.2,Obstructed side reach
+365,H.4.6.7.1,Occupancy
+366,B.8.1.3.1,Occupancy requirements
+367,B.8.3.4,Open spaces
+368,G.7.5.4,Open to sky dedicated substation with private panel
+369,G.7.5.5,Open to sky pocket substation
+370,B.7.2.3.2,Open versus enclosed parking
+371,E.5.2.2,Orientation of glazed facades
+372,C.7.2.1.3,Other requirements
+373,H.4.6.4,Outdoor air design conditions
+374,H.4.6.2,Outdoor design conditions
+375,K.9.7.3,Outside plant (OSP) common infrastructure specifications
+376,K.7.6.3,Overhead glazing
+377,H.11.3.1,Overview
+378,G.4.20.1,PF correction
+379,H.4.10.6,Pandemic air quality measures
+380,G.7.1.5,Parallel operation
+381,K.5.6.4,Parking areas and garage
+382,B.7.2.3.3,Parking areas technical requirements
+383,B.7.2.3,Parking floors and structures
+384,B.7.2.6,Parking provisions in buildings
+385,B.7.2.6.1,Parking ratios
+386,D.8.14.1,Passenger elevator selection
+387,F.7.12.3.3,Peer review of wind tunnel testing
+388,H.4.9.1,Performance
+389,H.10.4.5,Performing arts venues
+390,F.9.4.3.3,Permanent earth retaining system
+391,F.6.3.8,Permissible stresses in post-tensioning steel
+392,H.4.8.4,Pipe and duct insulation
+393,H.4.13.6,Pipe design
+394,H.4.13.5,Pipe installation
+395,H.4.13.3,Pipe joints and connections
+396,H.4.15.4,Piping support
+397,F.6.5.3,Plate thickness
+398,H.4.12.4,Plenums
+399,G.4.13.2,Plugs and socket outlets
+400,B.4.3.3,Podium
+401,K.9.1.4,Point of supply
+402,H.4.16.7,Pool and spa heaters
+403,D.8.10.1,Population estimation and passenger elevator selection
+404,C.8.3.4.1,Position and arrangement of toilets
+405,C.8.3.8.1,Position and clearances
+406,F.6.5.4.3,Post-installed anchors
+407,F.8.3.4,Post-tensioned concrete deflection control
+408,F.6.3.10,Post-tensioned concrete reinforcement
+409,C.5.8.4,Power-assisted and automatic accessible doors
+410,E.12.7.2,Power-operated systems
+411,B.8.3.3,Prayer rooms
+412,F.6.4.7,Precast staircase
+413,K.7.4.3,Precipitation including windblown spray
+414,B.7.2.6.2,Preferred parking
+415,H.4.13.8,Pressure vessels
+416,D.8.15.1,Primary and secondary modes of circulation
+417,B.8.1.4.2,Privacy requirements for public toilets
+418,K.7.6.1,Protection against impact with glazing
+419,G.7.9.2,Protection requirements
+420,C.5.6.3,Protruding objects
+421,C.10.2.7,Public spaces
+422,B.8.1.4,Public toilets requirements
+423,H.4.13.7,Pumped hydronic systems
+424,K.10.3.4,Rainwater disposal
+425,H.6.4.3,Rainwater disposal system acoustic requirements
+426,C.11.3.3,Raised characters for tactile signage
+427,C.5.9.1.4,Ramp edge protection
+428,C.5.9.1.6,Ramp handrails
+429,C.5.9.1.3,Ramp landings
+430,C.5.9.1.2,Ramp runs
+431,D.8.2.2,Rated speed
+432,D.8.3.2,Rated speed of firefighting elevators
+433,C.10.2.9,Recreational buildings and amusement parks
+434,B.10.6.1,Recycled materials
+435,B.8.5.3,Recycling and segregation
+436,B.8.5.7,Refuse chutes
+437,B.10.6.2,Regional materials
+438,B.6.4.1.6,Regular use and external stairs
+439,F.6.4.4,Reinforcement and strands
+440,G.7.1.2,Reliability of supply
+441,F.9.4.3.2,Required shoring systems
+442,F.7.12.3.1,Requirements for testing
+443,K.9.7.2,Responsibility matrix
+444,F.10.2.2,Return period
+445,C.6.2.2.2,Returned curb ramps
+446,H.11.8.3,Ring topology
+447,K.7.4.4,Risk of interstitial or surface condensation
+448,F.7.13.8,Risk-targeted maximum considered earthquake (MC
+449,H.6.2.7,Rodding eyes
+450,C.8.3.7.3,Roll-in type shower compartment
+451,K.7.7.4,Roof assemblies
+452,E.12.7.1,Rope access
+453,B.6.5.2.4,Safety of windows
+454,B.8.3.2.2,Safety requirements
+455,B.8.1.2,Sanitary finishes
+456,H.6.2.6,Sanitary plumbing acoustic requirements
+457,K.10.3.2,Sanitary plumbing systems
+458,B.8.1.3,Sanitary provisions and fixture calculations
+459,H.6.2.8,Sanitation pipework
+460,H.6.2.2,Sanitation system disposal
+461,H.4.16.5,Sauna heaters
+462,B.9.6.2,Schools
+463,F.7.13.1,Scope
+464,K.7.2.6,Sealing of windows and doors
+465,F.6.2.5,Section properties
+466,G.4.18.4,"Segregation of circuits, phases and"
+467,F.3.2.3,Seismic
+468,F.7.13.14,Seismic assessment of existing buildings
+469,F.7.13.10,Seismic design category
+470,F.7.13.3,Seismic ground motion values
+471,F.7.13.2,Seismic performance criteria
+472,D.8.15.3,Selection tables
+473,K.8.4.9,Self-straining forces
+474,K.10.3.6,Septic tanks and sewage holding tanks
+475,B.7.3.2,Service ramps
+476,K.10.2.7,Servicing and isolation valves
+477,K.7.2.3,Shade effect calculation
+478,B.10.5.2,Shading of public access
+479,B.6.6.4,Shafts
+480,H.4.12.3,Shafts as air ducts
+481,F.9.4.2.2,Shallow and raft foundations
+482,F.9.4.3,Shoring and earth retaining system
+483,K.8.6.4.3,Shoring and retaining systems
+484,C.8.3.7.4,Shower seats
+485,C.8.3.7,Showers
+486,C.5.7.2,Side reach
+487,D.8.5.1,Single grouping and one floor zone
 488,G.7.5.1,Single room substation (RMU and transformer in same room on
-489,G.7.5.2,Split room substation (RMU and transformer in separate rooms on
-490,G.7.5.3,Basement substation (RMU room in ground floor and transformer
-491,G.7.5.4,Open to sky dedicated substation with private panel
-492,G.7.5.5,Open to sky pocket substation
-493,G.7.5.6,DEWA control room requirements for direct 11 kV supply
-494,G.7.6.1,General
-495,G.7.6.2,Natural ventilation via two exterior walls
-496,G.7.6.3,Forced ventilation with no exterior walls
-497,G.7.9.1,Intake arrangement
-498,G.7.9.2,Protection requirements
-499,G.11.1.1,General requirements
-500,G.11.1.2,Telecoms service
-501,G.11.1.3,Reference architecture
-502,G.11.3.1,Lead-in ducts
-503,G.11.3.2,Meet-me-room (MMR)
-504,G.11.4.1,Telecom rooms
-505,G.11.4.2,Main telecom rooms (MTRs)
-506,G.11.4.3,Floor telecom rooms (FTRs)
-507,G.11.4.4,Mobile network services
-508,G.11.4.5,Apartment/office/retail consolidation
-509,G.11.4.6,Labour accommodation consolidation cabinet
-510,G.11.4.7,Business consolidation cabinet –
-511,G.11.4.8,Cable pathways
-512,G.11.4.9,Fibre termination components and
-513,H.2.1.1,HVAC and occupant comfort
-514,H.2.1.2,Water supplies
-515,H.2.1.3,Drainage
-516,H.2.1.4,Acoustics
-517,H.2.1.5,Fire safety
-518,H.2.1.6,Lighting
-519,H.2.1.7,Digital services enablement and ICT
-520,H.3.1.1,General
-521,H.3.1.2,HVAC and occupant comfort
-522,H.3.1.3,Water supplies
-523,H.3.1.4,Drainage
-524,H.3.1.5,Lighting
-525,H.3.1.6,Commissioning
-526,H.3.1.7,Acoustics
-527,H.3.1.8,Digital services enablement and ICT
-528,H.3.2.1,Water supplies and drainage
-529,H.3.2.2,Acoustics
-530,H.3.2.3,Digital services enablement and ICT
-531,H.4.6.1,General
-532,H.4.6.2,Outdoor design conditions
-533,H.4.6.3,Indoor design conditions
-534,H.4.6.4,Outdoor air design conditions
-535,H.4.6.5,Heat gain and loss calculations
-536,H.4.6.6,External load criteria
-537,H.4.6.7,Internal load criteria
-538,H.4.6.7.1,Occupancy
-539,H.4.6.7.2,Lighting
-540,H.4.6.7.3,Electrical equipment loads
-541,H.4.8.1,Minimum efficiency of HVAC systems
-542,H.4.8.2,Exhaust air energy recovery
-543,H.4.8.3,Demand controlled ventilation
-544,H.4.8.4,Pipe and duct insulation
-545,H.4.9.1,Performance
-546,H.4.9.2,Air loss from entrances/exits
-547,H.4.10.1,General
-548,H.4.10.2,Minimum ventilation requirements for adequate indoor air quality
-549,H.4.10.3,Indoor air quality
-550,H.4.10.4,Air inlets and exhausts
-551,H.4.10.5,Isolation of pollutant sources
-552,H.4.10.6,Pandemic air quality measures
-553,H.4.12.1,General
-554,H.4.12.2,Ducts and duct connectors
-555,H.4.12.3,Shafts as air ducts
-556,H.4.12.4,Plenums
-557,H.4.12.5,Air filters
-558,H.4.12.6,Ductwork air leakage
-559,H.4.12.7,Exhaust ventilation systems
-560,H.4.12.8,Mechanical ventilation in fire mode
-561,H.4.12.9,Fire and smoke dampers
-562,H.4.13.1,General
-563,H.4.13.2,Materials
-564,H.4.13.3,Pipe joints and connections
-565,H.4.13.4,Valves
-566,H.4.13.5,Pipe installation
-567,H.4.13.6,Pipe design
-568,H.4.13.7,Pumped hydronic systems
-569,H.4.13.8,Pressure vessels
-570,H.4.13.9,Boilers
-571,H.4.14.1,Controls for HVAC systems
-572,H.4.14.2,Building management system (BMS)
-573,H.4.14.3,H.4.14.3 Control systems for hotel rooms
-574,H.4.14.4,Air-conditioning metering
-575,H.4.15.1,General
-576,H.4.15.2,Materials
-577,H.4.15.3,Joints and connections
-578,H.4.15.4,Piping support
-579,H.4.16.1,Gas-fired appliances
-580,H.4.16.2,Fireplace stoves and room heaters
-581,H.4.16.3,"Cooling towers, evaporative condensers and fluid coolers"
-582,H.4.16.4,Infrared radiant heaters
-583,H.4.16.5,Sauna heaters
-584,H.4.16.6,Engine and gas turbine-powered equipment and appliances
-585,H.4.16.7,Pool and spa heaters
-586,H.4.16.8,Cooking appliances
-587,H.4.16.9,Conversion burners
-588,H.5.2.1,Compliance methods
-589,H.5.2.2,Water-efficient fittings
-590,H.5.2.5,Water-efficient irrigation
-591,H.5.2.6,Water metering
-592,H.5.2.6.1,Main meters
-593,H.5.2.6.2,Sub-meters
-594,H.5.2.3,Condensate drainage
-595,H.5.2.4,Condensate reuse
-596,H.5.2.7,Wastewater reuse
-597,H.5.2.8,Cooling tower water supply
-598,H.5.4.1,Cold water distribution
-599,H.5.4.2,Cooled water systems
-600,H.5.4.3,Water recycling systems
-601,H.5.4.4,Laboratory buildings
-602,H.5.4.5,Swimming pool cold water supply
-603,H.5.4.6,Irrigation water supply
-604,H.5.5.1,General
-605,H.5.5.2,Water tank locations
-606,H.5.5.3,Water storage tank sizing
-607,H.5.5.4,Water tank construction
-608,H.5.5.5,Tank pump room
-609,H.5.5.6,Firefighting water tanks
-610,H.5.5.7,Combined firefighting and water storage
-611,H.5.6.1,Treatment against microbiological bacteria growth
-612,H.5.6.2,Water softening
-613,H.6.2.1,General
-614,H.6.2.2,Sanitation system disposal
-615,H.6.2.3,Drainage from mechanical plant
-616,H.6.2.4,Floor drains
-617,H.6.2.5,Ventilation pipework
-618,H.6.2.6,Sanitary plumbing acoustic requirements
-619,H.6.2.7,Rodding eyes
-620,H.6.2.8,Sanitation pipework
-621,H.6.2.9,Leak detection systems
-622,H.6.3.1,Drainage systems
-623,H.6.3.2,Access to drainage systems
-624,H.6.3.3,Sump pits
-625,H.6.3.4,Foul pumping stations
-626,H.6.3.5,Manholes
-627,H.6.3.6,Manhole construction
-628,H.6.3.7,Final inspection chamber and provision for future connection
-629,H.6.4.1,General
-630,H.6.4.2,Siphonic rainwater disposal systems
-631,H.6.4.3,Rainwater disposal system acoustic requirements
-632,H.6.4.4,Drainage of hardstanding paved areas
-633,H.6.4.5,Miscellaneous rainwater drainage
-634,H.10.3.1,General
-635,H.10.3.2,Building services noise
-636,H.10.3.3,Sound insulation
-637,H.10.3.4,Control of reverberation
-638,H.10.4.1,Mosques
-639,H.10.4.2,Healthcare
-640,H.10.4.3,Educational
-641,H.10.4.4,Hotels
-642,H.10.4.5,Performing arts venues
-643,H.11.2.1,Digital building technology model
-644,H.11.2.2,Implementation requirements
-645,H.11.2.3,IoT protocols for digital services enablement
-646,H.11.2.4,Building control and operation communication protocols
-647,H.11.2.5,Device and data naming
-648,H.11.2.6,Data governance and privacy
-649,H.11.2.7,Home automation in residential buildings
-650,H.11.2.8,Device requirements and security
-651,H.11.2.9,Data validation
-652,H.11.3.1,Overview
-653,H.11.3.2,Equipment rooms and cabling pathways
-654,H.11.3.3,Landlord and tenant cabling infrastructure
-655,H.11.3.4,Distribution techniques
-656,H.11.3.5,Connection topologies for digital services in buildings
-657,H.11.3.6,Landlord data network infrastructure
-658,H.11.3.7,Special safety monitoring requirements
-659,H.11.3.8,Wireless technology
-660,H.11.7.1,Context
-661,H.11.7.2,Conventional approach to digital services and smart functionality in
-662,H.11.7.3,Digital services enabled approach
-663,H.11.8.1,General
-664,H.11.8.2,Star topology
-665,H.11.8.3,Ring topology
-666,H.11.8.4,Bus topology
-667,H.11.8.5,Mesh topology
-668,K.2.6.1,Electrical
-669,K.2.6.2,Telecommunications
-670,K.2.7.1,HVAC systems and occupant comfort
-671,K.2.7.2,Water
-672,K.2.7.3,Drainage
-673,K.3.5.1,General
-674,K.3.5.2,Concrete
-675,K.3.5.3,Steel
-676,K.3.5.4,Masonry
-677,K.3.5.5,Geotechnics
-678,K.3.5.5.1,Geotechnical investigation and testing
-679,K.3.5.5.2,Geotechnical design
-680,K.3.5.5.3,Execution of geotechnical works
-681,K.3.6.1,Electrical
-682,K.3.6.2,Telecommunications
-683,K.3.7.1,HVAC systems and occupant comfort
-684,K.3.7.2,Water
-685,K.3.7.3,Drainage
-686,K.3.7.4,Acoustics
-687,K.5.2.1,Gate level
-688,K.5.2.2,Building height
-689,K.5.2.3,Annexes
-690,K.5.2.4,Building setbacks
-691,K.5.2.5,"Balconies, building projections and terraces"
-692,K.5.2.5.1,Limitations
-693,K.5.2.5.2,Guardrails for fall protection
-694,K.5.2.6,Gross area (GA)
-695,K.5.2.7,Plot coverage
-696,K.5.2.8,Floors general requirements
-697,K.5.2.8.1,Ground floor
-698,K.5.2.8.2,Basements
-699,K.5.2.8.3,Roof
-700,K.5.3.1,Minimum room sizes
-701,K.5.3.2,Minimum clear heights
-702,K.5.4.1,Doors
-703,K.5.4.2,Windows and daylighting
-704,K.5.4.2.1,Minimum area of windows
-705,K.5.4.2.2,Habitable room conditions for natural lighting
-706,K.5.4.2.3,Access to views
-707,K.5.5.1,Hallways and corridors
-708,K.5.5.2,Stairs
-709,K.5.5.2.1,General
-710,K.5.5.2.2,Stairway width
-711,K.5.5.2.3,Stair risers and treads
-712,K.5.5.2.4,Landings
-713,K.5.5.2.5,Handrails
-714,K.5.5.2.6,Guardrails
-715,K.5.5.2.7,Exterior stairways
-716,K.5.5.2.8,Spiral or curved stairs and winders
-717,K.5.5.2.9,Surfaces
-718,K.5.5.3,Ramps
-719,K.5.5.4,Elevators
-720,K.5.5.5,Means of egress
-721,K.5.6.1,Building access
-722,K.5.6.2,Firefighting vehicle access
-723,K.5.6.3,Vehicle access and movement
-724,K.5.6.3.1,General requirements
-725,K.5.6.3.2,Vehicular ramps
-726,K.5.6.4,Parking areas and garage
-727,K.5.6.5,Maintenance ladders
-728,K.5.7.1,General requirements
-729,K.5.7.2,Fixture clearances
-730,K.5.8.1,"Gymnasiums, exercise rooms"
-731,K.5.8.2,Swimming pools
-732,K.5.8.2.1,General requirements
-733,K.5.8.2.2,Swimming pool floors
-734,K.5.8.2.3,Swimming pool fences
-735,K.5.8.2.4,Decks and walkways
-736,K.5.9.1,General
-737,K.5.9.2,Specification of waste storage areas
-738,K.5.9.3,Dimensions of waste storage areas
-739,K.5.10.1,Asbestos-containing materials
-740,K.5.10.2,Lead or heavy metals containing material
-741,K.5.10.3,Interior finishes
-742,K.5.12.1,Surfaces shading
-743,K.5.12.2,Exterior light pollution and controls
-744,K.7.1.1,Strength and stability
-745,K.7.1.1.1,General
-746,K.7.1.1.2,Wind loads
-747,K.7.1.1.3,Load resistance and transmission
-748,K.7.1.1.4,Permanent fixture loading
-749,K.7.1.1.5,Operational forces
-750,K.7.1.1.6,Thermal movements
-751,K.7.1.1.7,Deflection
-752,K.7.1.1.8,Fixings
-753,K.7.1.2,Structural use of glass
-754,K.7.1.3,Structural use of silicone
-755,K.7.1.4,Materials
-756,K.7.1.5,Impact resistance
-757,K.7.1.6,Load combination
-758,K.7.2.1,Energy compliance method
-759,K.7.2.2,Building envelope performance
-760,K.7.2.2.1,Non-glazed elements
-761,K.7.2.2.2,Glazed elements – Fenestration
-762,K.7.2.3,Shade effect calculation
-763,K.7.2.4,Thermal bridges
-764,K.7.2.5,Durability
-765,K.7.2.6,Sealing of windows and doors
-766,K.7.2.7,Heat island effect reduction
-767,K.7.4.1,General
-768,K.7.4.2,Ground moisture
-769,K.7.4.3,Precipitation including windblown spray
-770,K.7.4.3.1,General
-771,K.7.4.3.2,Horizontal and inclined surfaces
-772,K.7.4.3.3,Vertical surfaces
-773,K.7.4.3.4,Flashing
-774,K.7.4.4,Risk of interstitial or surface condensation
-775,K.7.6.1,Protection against impact with glazing
-776,K.7.6.2,Containment
-777,K.7.6.3,Overhead glazing
-778,K.7.7.1,General
-779,K.7.7.2,"Fire testing of non-fire-rated, non-load-bearing façades and aesthetic"
-780,K.7.7.3,Solid metal panels
-781,K.7.7.4,Roof assemblies
-782,K.8.1.1,General conditions
-783,K.8.1.2,Design life
-784,K.8.1.3,Design acceptance criteria
-785,K.8.1.4,Structural system and robustness
-786,K.8.1.5,Durability
-787,K.8.4.1,General
-788,K.8.4.2,Load combinations
-789,K.8.4.3,Dead loads
-790,K.8.4.4,Superimposed dead loads
-791,K.8.4.5,Live loads
-792,K.8.4.6,Soil loads and hydrostatic pressure
-793,K.8.4.7,Construction load
-794,K.8.4.8,Accidental impact load
-795,K.8.4.9,Self-straining forces
-796,K.8.4.10,Thermally induced forces
-797,K.8.4.11,Design for wind loading effects
-798,K.8.4.12,Design for earthquake effects
-799,K.8.5.1,Design basis
-800,K.8.5.2,Strength
-801,K.8.5.3,Deflection control
-802,K.8.5.4,Crack control in concrete structure
-803,K.8.5.5,Drift and deformation
-804,K.8.5.5.1,General
-805,K.8.5.5.2,Drift and deformation due to wind
-806,K.8.5.5.3,Drift and deformation due to seismic
-807,K.8.5.6,Movement joints and building separation
-808,K.8.5.7,Vibration
-809,K.8.5.8,Fatigue
-810,K.8.5.9,Transfer elements
-811,K.8.6.1,General
-812,K.8.6.2,Standards
-813,K.8.6.3,Geotechnical site investigation
-814,K.8.6.3.1,General
-815,K.8.6.3.2,Geotechnical desk study
-816,K.8.6.3.3,Planning geotechnical investigation
-817,K.8.6.3.4,Geotechnical on-site investigations
-818,K.8.6.3.5,Geotechnical laboratory testing
-819,K.8.6.3.6,Geotechnical reporting
-820,K.8.6.4,Geotechnical design
-821,K.8.6.4.1,Earthworks (excavation and fill)
-822,K.8.6.4.2,Foundations design
-823,K.8.6.4.3,Shoring and retaining systems
-824,K.8.6.4.4,Groundwater control and dewatering
-825,K.8.6.4.5,Liquefaction
-826,K.8.6.4.6,Ground improvement
-827,K.8.6.5,Execution of geotechnical works
-828,K.8.6.5.1,General
-829,K.8.6.5.2,Earthworks (excavation and filling)
-830,K.8.6.5.3,Shoring retaining systems
-831,K.8.6.5.4,Foundations
-832,K.8.6.5.5,Groundwater control and dewatering
-833,K.8.6.5.6,Ground improvement
-834,K.9.1.1,General
-835,K.9.1.2,Electrical supply
-836,K.9.1.3,Incoming and metering
-837,K.9.1.4,Point of supply
-838,K.9.1.4.1,General
-839,K.9.1.4.2,Switchgear locations
-840,K.9.1.5,Tariff metering
-841,K.9.1.5.1,Individual consumers premises
-842,K.9.1.5.2,CT metering requirements
-843,K.9.1.6,Ambient design conditions
-844,K.9.1.7,Cables and conductors
-845,K.9.1.7.1,General
-846,K.9.1.7.2,Minimum size of conductors
-847,K.9.1.7.3,"Current rating, size and voltage drop"
-848,K.9.1.7.4,Cable colour identification
-849,K.9.1.8,Wiring installation exposed to high temperatures
-850,K.9.1.9,Wiring installations in hazardous areas
-851,K.9.1.10,Load balancing
-852,K.9.1.11,Wiring accessories
-853,K.9.1.12,Distribution boards and consumer units
-854,K.9.1.13,Apparatus and accessories
-855,K.9.1.14,Standby generators
-856,K.9.1.15,Assessment of connected load and
-857,K.9.1.16,"Design criteria for the installation of conduits, trunking, trays and"
-858,K.9.1.17,"Design criteria for the installation of cables, equipment, accessories"
-859,K.9.1.18,Earthing and earth leakage protection
-860,K.9.3.1,General
-861,K.9.3.2,System documentation requirements
-862,K.9.3.3,Wiring diagram datasheets
-863,K.9.3.4,Labelling and identification
-864,K.9.3.5,Metering and metering provision
-865,K.9.5.1,Water metering and water conservation
-866,K.9.5.2,Design and installation of water meters
-867,K.9.7.1,Design and installation of telecom infrastructure
-868,K.9.7.1.1,General requirements
-869,K.9.7.1.2,Telecoms service
-870,K.9.7.1.3,Reference architecture
-871,K.9.7.2,Responsibility matrix
-872,K.9.7.3,Outside plant (OSP) common infrastructure specifications
-873,K.9.7.4,Inside plant common infrastructure specifications (ISP)
-874,K.9.7.4.1,Telecom spaces
-875,K.9.7.4.2,Consolidation cabinets
-876,K.9.7.4.3,Cable pathways
-877,K.9.7.4.4,Cables and termination equipment
-878,K.9.7.4.5,Labelling scheme
-879,K.10.1.1,General
-880,K.10.1.2,Acoustic requirements and noise criteria
-881,K.10.1.3,Building HVAC energy load
-882,K.10.1.4,Thermal comfort criteria
-883,K.10.1.5,Energy conservation and efficiency: building systems
-884,K.10.1.6,Ventilation and air quality
-885,K.10.1.7,Natural ventilation
-886,K.10.1.8,Mechanical ventilation
-887,K.10.1.9,Hydronic systems
-888,K.10.2.1,General
-889,K.10.2.2,Water conservation and reuse
-890,K.10.2.3,Cold water services
-891,K.10.2.4,Tank pump-set installation
-892,K.10.2.5,Cold water storage tanks
-893,K.10.2.6,Combined firefighting and water storage
-894,K.10.2.7,Servicing and isolation valves
-895,K.10.2.8,Backflow protection
-896,K.10.2.9,Hot water services
-897,K.10.3.1,General
-898,K.10.3.2,Sanitary plumbing systems
-899,K.10.3.3,Below ground drainage systems
-900,K.10.3.4,Rainwater disposal
-901,K.10.3.5,Swimming pools
-902,K.10.3.6,Septic tanks and sewage holding tanks
-903,K.10.3.7,Soakaways
-904,K.10.4.1,General
-905,K.10.4.2,Lighting controls
-906,K.10.5.1,Emergency lighting
-907,K.10.5.2,Fire detection and alarm
-908,K.10.5.3,Sprinklers and hose reels
-909,K.10.5.4,Smart monitoring
+489,C.8.3.6,Sinks and washbasins
+490,H.6.4.2,Siphonic rainwater disposal systems
+491,F.7.13.4,Site class
+492,F.7.13.5,Site coefficients and risk-targeted maximum considered earthquake
+493,F.7.13.9,Site-specific ground motion procedures
+494,C.7.2.1.2,Slip resistance
+495,K.10.5.4,Smart monitoring
+496,K.10.3.7,Soakaways
+497,K.8.4.6,Soil loads and hydrostatic pressure
+498,K.7.7.3,Solid metal panels
+499,H.10.3.3,Sound insulation
+500,B.8.5.4,Special and bulky waste
+501,H.11.3.7,Special safety monitoring requirements
+502,B.9.4.6,Specific requirements for mosque types
+503,K.5.9.2,Specification of waste storage areas
+504,B.8.5.2.2,Specification of waste storage rooms
+505,K.5.5.2.8,Spiral or curved stairs and winders
+506,G.7.5.2,Split room substation (RMU and transformer in separate rooms on
+507,C.10.2.13,Sport buildings and exercise rooms
+508,K.10.5.3,Sprinklers and hose reels
+509,B.9.7.3,Staff accommodation
+510,C.10.2.4,Stages and backstage
+511,B.6.4.1,Stairways
+512,G.7.1.3,Standard cable sizes
+513,K.8.6.2,Standards
+514,K.9.1.14,Standby generators
+515,H.11.8.2,Star topology
+516,F.6.5.2,Steel grades
+517,F.8.8.1,Steelwork
+518,F.8.3.3,Steelwork deflection limits
+519,F.5.6.3,Steelwork structures
+520,C.7.3.2,Storage facilities
+521,F.6.4.5,"Storage, transportation, handling and erection"
+522,K.8.5.2,Strength
+523,K.7.1.1,Strength and stability
+524,F.6.5.4,Structural connections
+525,F.7.12.5,Structural damping for assessment of wind responses
+526,K.8.1.4,Structural system and robustness
+527,K.7.1.2,Structural use of glass
+528,K.7.1.3,Structural use of silicone
+529,B.9.7.4,Student accommodation
+530,H.5.2.6.2,Sub-meters
+531,G.7.2.2,Substation location
+532,G.7.2.3,Substation parameters
+533,H.6.3.3,Sump pits
+534,K.8.4.4,Superimposed dead loads
+535,K.5.5.2.9,Surfaces
+536,K.5.12.1,Surfaces shading
+537,G.4.13.4,Surge protection devices (SPDs)
+538,H.5.4.5,Swimming pool cold water supply
+539,K.5.8.2.2,Swimming pool floors
+540,G.4.13.1,Switches
+541,C.5.7.4,"Switches, controls and socket outlets"
+542,K.9.3.2,System documentation requirements
+543,C.7.3.3,Tables
+544,C.7.2.2.3,Tactile guiding surfaces
+545,C.7.2.2,Tactile systems
+546,H.5.5.5,Tank pump room
+547,K.10.2.4,Tank pump-set installation
+548,K.9.1.5,Tariff metering
+549,G.11.4.1,Telecom rooms
+550,K.9.7.4.1,Telecom spaces
+551,F.6.3.5,Tendons
+552,C.10.2.2,"Theatres, cinemas, conference rooms and auditoriums"
+553,K.7.2.4,Thermal bridges
+554,K.10.1.4,Thermal comfort criteria
+555,K.8.4.10,Thermally induced forces
+556,C.5.6.2,Toe and knee clearance
+557,D.9.3.2,Traffic pattern
+558,K.8.5.9,Transfer elements
+559,C.8.3.7.2,Transfer type shower compartments
+560,C.10.2.12,"Transport buildings, stations and terminals"
+561,H.5.6.1,Treatment against microbiological bacteria growth
+562,B.7.3.1.4,Truck turning radii and clearances
+563,G.4.11.2,Trunking
+564,G.4.17.1,Trunking and conduits
+565,B.11.4.1,Types
+566,C.6.2.2,Types of curb ramps
+567,G.4.20.3,Undervoltage (UV) relays with auto
+568,C.5.7.1.1,Unobstructed forward reach
+569,C.5.7.2.1,Unobstructed side reach
+570,C.8.3.5,Urinals
+571,H.4.13.4,Valves
+572,K.5.6.3,Vehicle access and movement
+573,K.10.1.6,Ventilation and air quality
+574,H.6.2.5,Ventilation pipework
+575,K.8.5.7,Vibration
+576,C.5.8.2.2,Vision panels
+577,F.6.6.2,Wall panels
+578,C.7.2.4,Wall surfaces
+579,B.8.5.1,Waste management hierarchy
+580,B.8.5.2,Waste storage rooms
+581,H.5.2.7,Wastewater reuse
+582,C.8.3.4,Water closets
+583,K.10.2.2,Water conservation and reuse
+584,H.5.2.6,Water metering
+585,K.9.5.1,Water metering and water conservation
+586,H.5.4.3,Water recycling systems
+587,H.5.6.2,Water softening
+588,H.5.5.3,Water storage tank sizing
+589,H.3.2.1,Water supplies and drainage
+590,H.5.5.4,Water tank construction
+591,H.5.5.2,Water tank locations
+592,H.5.2.2,Water-efficient fittings
+593,H.5.2.5,Water-efficient irrigation
+594,F.6.5.4.2,Welded connections
+595,C.8.3.4.2,Wheelchair accessible water closets
+596,F.7.12.3.2,Wind direction factors
+597,E.4.1.2,Wind loadings
+598,K.7.1.1.2,Wind loads
+599,F.7.12.2,Wind pressures
+600,F.7.12.3,Wind tunnel testing
+601,H.11.3.8,Wireless technology
+602,K.9.1.11,Wiring accessories
+603,K.9.3.3,Wiring diagram datasheets
+604,K.9.1.8,Wiring installation exposed to high temperatures
+605,K.9.1.9,Wiring installations in hazardous areas
+606,G.4.21.2,Wiring systems and distribution boards
+607,B.9.4.5,Women’s prayer halls in mosques
