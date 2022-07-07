@@ -1,0 +1,14 @@
+https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70
+https://pdfminer-docs.readthedocs.io/programming.html
+https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/
+https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/
+https://appliedsingularity.com/2022/02/01/nlp-tutorials-part-6-text-classification/
+https://towardsdatascience.com/how-to-extract-keywords-from-pdfs-and-arrange-in-order-of-their-weights-using-python-841556083341
+https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
+https://www.seldon.io/machine-learning-regression-explained
+https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21
+https://www.machinelearningplus.com/nlp/cosine-similarity/
+https://www.analyticsvidhya.com/blog/2021/05/topic-modelling-in-natural-language-processing/#:~:text=Topic%20modelling%20refers%20to%20the,Latent%20Dirichlet%20Allocation%20(LDA).
+https://www.guru99.com/unsupervised-machine-learning.html
+pre trained topic model
+Unsupervised learning techniques in NLP
